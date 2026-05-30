@@ -115,7 +115,7 @@ SQL Output
 
 
 
-Interactive Global Disaster Map
+6.Interactive Global Disaster Map
 Objective
 
 Visualize catastrophe events geographically using an interactive map.
@@ -134,7 +134,7 @@ Visualization
 
 
 
-Power BI Dashboard
+7.Power BI Dashboard
 Objective
 
 Develop an executive dashboard for catastrophe risk monitoring.
