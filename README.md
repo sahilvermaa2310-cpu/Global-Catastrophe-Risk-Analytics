@@ -2,7 +2,7 @@
 Built an end-to-end catastrophe risk analytics platform using PostgreSQL, PostGIS, and Power BI to analyze global disaster events, economic losses, risk scores, and high-risk regions through interactive dashboards and geospatial visualizations.
 
 
-1. Disaster Type Analysis
+1.Disaster Type Analysis
 Objective
 
 This analysis identifies which disaster categories occur most frequently and which types contribute the highest economic losses.
@@ -22,7 +22,8 @@ SQL Output
 
 
 
-2. Country Risk Summary
+
+2.Country Risk Summary
 Objective
 
 Evaluate disaster risk at the country level by measuring event frequency, economic damage, and average severity.
@@ -44,7 +45,8 @@ SQL Output
 
 
 
-3. High Severity Events
+
+3.High Severity Events
 Objective
 
 Identify the most severe disaster events recorded in the dataset.
@@ -67,7 +69,8 @@ SQL Output
 <img width="611" height="328" alt="Screenshot 2026-05-30 093403" src="https://github.com/user-attachments/assets/51c3bf53-9704-4937-9c95-6cb8c8e21e1b" />
 
 
-4. Affected Population Analysis
+
+4.Affected Population Analysis
 Objective
 
 Measure the human impact of disasters across different countries.
@@ -89,7 +92,8 @@ SQL Output
 
 
 
-5. Executive Risk Summary
+
+5.Executive Risk Summary
 Objective
 
 Create a management-level summary of catastrophe risk metrics.
