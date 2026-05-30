@@ -2,7 +2,7 @@
 Built an end-to-end catastrophe risk analytics platform using PostgreSQL, PostGIS, and Power BI to analyze global disaster events, economic losses, risk scores, and high-risk regions through interactive dashboards and geospatial visualizations.
 
 
-1.Disaster Type Analysis
+1.DISASTER TYPE ANALYSIS
 Objective
 
 This analysis identifies which disaster categories occur most frequently and which types contribute the highest economic losses.
@@ -18,12 +18,11 @@ Total economic damage caused
 Average severity score
 SQL Output
 
-<img width="739" height="337" alt="Screenshot 2026-05-30 093142" src="https://github.com/user-attachments/assets/64583fc3-c03a-4eab-b440-589515d85048" />
+<img width="726" height="304" alt="Screenshot 2026-05-31 004649" src="https://github.com/user-attachments/assets/6fe22318-1ade-43ca-8870-aad9b7878f5c" />
 
 
 
-
-2.Country Risk Summary
+2.COUNTRY RISK SUMMARY
 Objective
 
 Evaluate disaster risk at the country level by measuring event frequency, economic damage, and average severity.
@@ -41,12 +40,12 @@ Total estimated economic losses
 Average disaster severity
 SQL Output
 
-<img width="1092" height="582" alt="Screenshot 2026-05-30 093328" src="https://github.com/user-attachments/assets/371bab09-048e-4a0a-8133-6cbc19bd59ac" />
+<img width="742" height="331" alt="Screenshot 2026-05-31 004949" src="https://github.com/user-attachments/assets/0225ab14-1569-468a-b01e-4e7b9127aa95" />
 
 
 
 
-3.High Severity Events
+3.HIGH-RISK EVENTS ANALYSIS
 Objective
 
 Identify the most severe disaster events recorded in the dataset.
@@ -65,12 +64,11 @@ Severity score
 Economic damage
 Population affected
 SQL Output
-
-<img width="611" height="328" alt="Screenshot 2026-05-30 093403" src="https://github.com/user-attachments/assets/51c3bf53-9704-4937-9c95-6cb8c8e21e1b" />
-
+<img width="1084" height="554" alt="Screenshot 2026-05-31 010045" src="https://github.com/user-attachments/assets/3c4f361b-d4f5-4313-92f8-7204fb61cf8a" />
 
 
-4.Affected Population Analysis
+
+4.EXECUTIVE RISK DASHBOARD
 Objective
 
 Measure the human impact of disasters across different countries.
@@ -88,12 +86,12 @@ Economic losses
 Country-level disaster impact
 SQL Output
 
-<img width="611" height="328" alt="Screenshot 2026-05-30 093403" src="https://github.com/user-attachments/assets/bf881d38-669d-4062-965b-ea0c0a719888" />
+<img width="613" height="332" alt="Screenshot 2026-05-31 005302" src="https://github.com/user-attachments/assets/db9f1194-deac-458e-93fa-b379e867a38e" />
 
 
 
 
-5.Executive Risk Summary
+5.DISASTER RANKING ANALYSIS
 Objective
 
 Create a management-level summary of catastrophe risk metrics.
@@ -111,11 +109,11 @@ Average severity
 Economic damage
 Population exposure
 SQL Output
-<img width="894" height="346" alt="Screenshot 2026-05-30 093433" src="https://github.com/user-attachments/assets/b5c21bad-ed44-41e1-b205-1b8e236a34ed" />
+<img width="900" height="336" alt="Screenshot 2026-05-31 005350" src="https://github.com/user-attachments/assets/3c05767f-7c0a-460a-b9db-b5ab6b26c288" />
 
 
 
-6.Interactive Global Disaster Map
+6.GLOBAL DISASTER RISK MAP
 Objective
 
 Visualize catastrophe events geographically using an interactive map.
@@ -134,7 +132,7 @@ Visualization
 
 
 
-7.Power BI Dashboard
+7.POWER BI EXECUTIVE DASHBOARD
 Objective
 
 Develop an executive dashboard for catastrophe risk monitoring.
