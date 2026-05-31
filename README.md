@@ -3,6 +3,7 @@ Built an end-to-end catastrophe risk analytics platform using PostgreSQL, PostGI
 
 
 1.DISASTER TYPE ANALYSIS
+
 Objective
 
 This analysis identifies which disaster categories occur most frequently and which types contribute the highest economic losses.
@@ -23,6 +24,7 @@ SQL Output
 
 
 2.COUNTRY RISK SUMMARY
+
 Objective
 
 Evaluate disaster risk at the country level by measuring event frequency, economic damage, and average severity.
@@ -46,6 +48,7 @@ SQL Output
 
 
 3.HIGH-RISK EVENTS ANALYSIS
+
 Objective
 
 Identify the most severe disaster events recorded in the dataset.
@@ -69,6 +72,7 @@ SQL Output
 
 
 4.EXECUTIVE RISK DASHBOARD
+
 Objective
 
 Measure the human impact of disasters across different countries.
@@ -92,6 +96,7 @@ SQL Output
 
 
 5.DISASTER RANKING ANALYSIS
+
 Objective
 
 Create a management-level summary of catastrophe risk metrics.
@@ -114,6 +119,7 @@ SQL Output
 
 
 6.GLOBAL DISASTER RISK MAP
+
 Objective
 
 Visualize catastrophe events geographically using an interactive map.
@@ -133,6 +139,7 @@ Visualization
 
 
 7.POWER BI EXECUTIVE DASHBOARD
+
 Objective
 
 Develop an executive dashboard for catastrophe risk monitoring.
@@ -168,7 +175,7 @@ Allow users to explore specific locations and disaster categories.
 
 Dashboard Preview
 
-<img width="1190" height="665" alt="Screenshot 2026-05-30 085517" src="https://github.com/user-attachments/assets/dda5794d-170b-427f-8363-6b735bf3acff" />
+<img width="1345" height="692" alt="dashboard" src="https://github.com/user-attachments/assets/035b7172-c746-449c-9333-5498eb9e5a9a" />
 
 
 
