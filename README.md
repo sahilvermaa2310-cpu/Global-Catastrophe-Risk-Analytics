@@ -178,6 +178,11 @@ Dashboard Preview
 <img width="1345" height="692" alt="dashboard" src="https://github.com/user-attachments/assets/035b7172-c746-449c-9333-5498eb9e5a9a" />
 
 
+## Author
+
+Sahil Verma
+Economics Student | Ambedkar University Delhi  
+
 
 
 
