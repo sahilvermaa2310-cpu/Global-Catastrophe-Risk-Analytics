@@ -181,7 +181,9 @@ Dashboard Preview
 ## Author
 
 Sahil Verma
-Economics Student | Ambedkar University Delhi  
+
+
+Economics | Ambedkar University Delhi  
 
 
 
